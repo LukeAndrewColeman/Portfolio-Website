@@ -192,7 +192,7 @@ button:active {
   }
 
   #hero {
-    margin-top: 100px;
+    margin-top: 50px;
   }
 
   #portfolio {
@@ -205,5 +205,24 @@ button:active {
   img {
     height: 160px;
   }
+
+  h1 {
+    font-size: 50px;
+  }
+
+  h2 {
+    font-size: 30px !important;
+  }
+
+  .portfolio-row {
+    padding: 1rem;
+  }
+
+  }
+
+  @media (max-width: 575.98px) {
+    img {
+      height: 130px;
+    }
 
   }
