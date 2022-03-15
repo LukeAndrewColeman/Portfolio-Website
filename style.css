@@ -202,9 +202,9 @@ button:active {
  }
 
  @media (max-width: 767.98px) {
-  img {
+  /* img {
     height: 160px;
-  }
+  } */
 
   h1 {
     font-size: 50px;
@@ -221,8 +221,8 @@ button:active {
   }
 
   @media (max-width: 575.98px) {
-    img {
+    /* img {
       height: 130px;
-    }
+    } */
 
   }
